@@ -1,0 +1,124 @@
+html body{
+	margin: 0;
+	padding: 0;
+	background-color: white;
+}
+header{
+	margin: 10%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+section{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	position: relative;
+	width:  50.1%;
+	height:20.00%;
+	top: 1.5%;
+	left: 1.58%;
+	font-size: 1.25;
+	color: #ffffff;
+	font-style: normal;
+	text-align: left;
+	line-height: 1.07;
+	letter-spacing: 0;
+
+}
+.cb{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	top:200%;
+	left: 190px;
+	flex-direction: column;
+}
+.tata{
+	position: relative;
+	width: 150%;
+	height:150%;
+	top: 15px;
+	left: 150px;
+	border-right: 300px solid transparent;
+	border-top: 5px solid transparent;
+	border-left: 100px solid transparent;
+	border-bottom: black;
+
+}
+.th{
+	width: 15%;
+	height: 15%;
+	position: absolute;
+	top:55px;
+	left: 200px;
+}
+.joyce{
+	position: relative;
+	left: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 1.68%;
+	height: 1.5%;
+	background-color: pink;
+	top: 100px;
+	margin: 10px;
+}
+.ney{
+	position: relative;
+	left: 30%;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	width: 150%;
+	height: 150%;
+	background-color: blue;
+	color: yellow;
+	top: -200px;
+	margin: 0px;
+}
+.roro{	
+	position: relative;
+	width: 150%;
+	height:150%;
+	top: 15px;
+	left: 150px;
+	border-right: 300px solid transparent;
+	border-top: 5px solid transparent;
+	border-left: 100px solid transparent;
+	border-bottom: black;
+}
+.riri{
+	position: relative;
+	width: 150%;
+	height:150%;
+	top: 15px;
+	left: 150px;
+	border-right: 300px solid transparent;
+	border-top: 5px solid transparent;
+	border-left: 100px solid transparent;
+	border-bottom: black;
+
+
+}
+
+.kaka{
+	position: relative;
+	width: 150%;
+	height:150%;
+	top: 15px;
+	left: 150px;
+	border-right: 300px solid transparent;
+	border-top: 5px solid transparent;
+	border-left: 100px solid transparent;
+	border-bottom: black;
+
+
+}
+
+.nia{
+	
+
+}
