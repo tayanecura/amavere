@@ -1,0 +1,196 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+nav{
+	position: fixed;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	left: 32%;
+	top: 0;
+
+}
+
+ul{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+li{	
+	background-color: #fff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	list-style: none;
+	margin: 20px;
+	border-radius: 25px;
+	width: 100px;
+	height: 25px;
+	border: 1px solid #000000;
+}
+
+header{
+	position: relative;
+	padding-top: 50%;
+	background:url(Assets/vóvó.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+	flex-direction: column;
+	
+}
+
+.logo{
+	position: absolute;
+	width: 25%;
+	height: 35%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	top: 3%;
+	padding-left: 11%; 
+}
+
+.cont-text{
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+	margin-left: 60%;
+	margin-top: -15%;
+	padding-top: 1%;
+	width: 23%;
+	height: 25%;
+	border: 1px solid #fff;
+	border-radius: 25px;
+}
+
+.text-home{
+	margin: 5%;
+	font-size: 1.25em;
+	width: 80%;
+	color: #fff;
+	text-align: left;
+	
+}
+
+main{
+	padding-left: 10%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+}
+
+.img2{
+	width: 31%;
+	height: 35%;
+}
+
+.cont-1{
+	margin-left: -20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.text-h1{
+	display: flex;
+	margin-left: -15%;
+	color: #1f4ecc;
+	font-size: 1.88em;
+	font-style: normal;
+	text-align: left;
+	line-height: 1.61em;
+	padding-top: -20%;
+
+
+}
+
+.text-sobre{
+	font-size: 1.25em;
+	width: 40%;
+	margin-left: 15%;
+
+}
+
+.cont-2{
+	margin-top: -30%;
+	padding-top: 90%; 
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #1f4ecc;
+}
+
+.texto-1{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	color: #fff; 
+	margin-top: -122%;
+
+}
+
+.texto-1 p{
+	width: 50%;
+	font-size: 0.88em;
+    font-style: normal;
+	text-align: left;
+
+
+}
+
+.texto-1 h1{
+	color: #faeb03;
+	font-size: 1.88em;
+
+}
+
+.texto-2{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	color: #fff;
+	margin-top: -110%;
+
+
+}
+
+.texto-2 p{
+	width: 50%;
+	font-size: 0.88em;
+    font-style: normal;
+	text-align: left;
+
+}
+
+.texto-3{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	color: #fff;
+	margin-top: -105%;
+
+
+}
+
+.texto-3 p{
+	width: 50%;
+	font-size: 0.88em;
+    font-style: normal;
+	text-align: left;
+
+}
+
+
+
